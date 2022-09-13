@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(https://eskipaper.com/images/circle-background-4.jpg);
+    background-color: lavender;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.calculadora {
+    border-collapse: collapse;
+    border-radius: 20px;
+    background-color: #242742;
+    color: white;
+    font-family: sans-serif;
+    text-align: center;
+    margin: auto;
+    margin-top: 100px;
+    width: 400px;
+}
+
+input.visor {
+    color: white;
